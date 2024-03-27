@@ -28,3 +28,7 @@ I've implemented a Breadth-First Search (BFS) algorithm to efficiently find the 
 To optimize the process and avoid redundant checks for the same entrance, I've integrated this consideration into the BFS algorithm.
 ### Shortest path with using teleports
 In enhancing the search for the shortest path with teleports, I've determined the nearest teleport for each entrance. By aggregating the distances to the two entrances with the closest teleports, I've streamlined pathfinding process.
+
+<div align="center">
+  <img src="example.png" width="300"/>
+</div>
