@@ -4,7 +4,7 @@ In this problem, you are given an image that contains a simple maze. Images can 
 However, this maze is not just an ordinary maze. It can also contain a certain number of teleports. Those are special pixels that make you able to enter it and exit in any other teleport. You should also find the shortest path using teleports.
 
 <div>
-  <img src="data/04" width="200"/>
+  <img src="data/04.png" width="200"/>
 </div>
 
 ### Task 1: Count entrances
