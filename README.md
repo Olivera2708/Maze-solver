@@ -30,5 +30,5 @@ To optimize the process and avoid redundant checks for the same entrance, I've i
 In enhancing the search for the shortest path with teleports, I've determined the nearest teleport for each entrance. By aggregating the distances to the two entrances with the closest teleports, I've streamlined pathfinding process.
 
 <div align="center">
-  <img src="example.png" width="300"/>
+  <img src="example.png" width="500"/>
 </div>
